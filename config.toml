@@ -1,0 +1,40 @@
+theme = "coder"
+baseURL = "http://chigstuff.com/"
+languageCode = "en-us"
+title = "Chiggins Stuff"
+
+[params]
+    author = "Chris Higgins"
+    description = "Description Here"
+    keywords = "security,beer,brewer,metasploit,infosec"
+    info = "Hacker, Developer, Brewer"
+
+[[params.social]]
+    name = "Github"
+    weight = 1
+    url = "https://github.com/chiggins"
+[[params.social]]
+    name = "Twitter"
+    weight = 2
+    url = "https://twitter.com/ch1gg1ns"
+[[params.social]]
+    name = "Email"
+    weight = 3
+    url = "mailto:chris@chigs.me"
+
+[[menu.main]]
+    name = "Blog"
+    weight = 1
+    url = "/blog/"
+[[menu.main]]
+    name = "Contributions"
+    weight = 2
+    url = "/contributions/"
+[[menu.main]]
+    name = "Resume"
+    weight = 3
+    url = "/files/resume.pdf"
+[[menu.main]]
+    name = "About"
+    weight = 4
+    url = "/about/"
