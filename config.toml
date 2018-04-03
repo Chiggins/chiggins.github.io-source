@@ -1,5 +1,5 @@
 theme = "coder"
-baseURL = "http://chigstuff.com/"
+baseURL = "https://chigstuff.com/"
 languageCode = "en-us"
 title = "Chiggins Stuff"
 
