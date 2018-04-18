@@ -133,7 +133,7 @@ Meterpreter     : x86/windows
 meterpreter >
 ```
 
-Because the payload utlizes both domain fromting via `do.skype.com` and HTTPS, the traffic in transit really looks like nothing out of the orginary.
+Because the payload utlizes both domain fromting via `do.skype.com` and HTTPS, the traffic in transit really looks like nothing out of the ordinary.
 
 ![Wireshark capture of payload](/images/metasploit_azure_domain_fronting/3.png)
 
