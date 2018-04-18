@@ -1,7 +1,6 @@
 ---
 title: "Metasploit Domain Fronting With Microsoft Azure"
-date: 2018-04-03T00:24:27-05:00
-draft: true
+date: 2018-04-17T00:24:27-05:00
 ---
 
 Domain fronting has been one of the biggest "new-hotnesses" of the past few years and rightly so. It helps to mask your C2 traffic behind well-known domains and does a fairly good job at keeping defenders in the dark. We've seen plenty of resources setting up domain fronting for [Empire](https://www.xorrior.com/Empire-Domain-Fronting/) and [Cobalt Strike](https://blog.cobaltstrike.com/2017/02/06/high-reputation-redirectors-and-domain-fronting/), which have definitely helped to pave the way. Domain fronting support was [finally added](https://github.com/rapid7/metasploit-framework/pull/8948) into the Metasploit Framework in late 2017 and now we're starting to see [various](https://beyondbinary.io/articles/domain-fronting-with-metasploit-and-meterpreter/) [resources](https://bitrot.sh/post/30-11-2017-domain-fronting-with-meterpreter/) to help set that up for you. 
